@@ -1,3 +1,0 @@
-/Users/mina/work/weetracer/build/CMakeFiles/weetracer.dir
-/Users/mina/work/weetracer/build/CMakeFiles/edit_cache.dir
-/Users/mina/work/weetracer/build/CMakeFiles/rebuild_cache.dir
